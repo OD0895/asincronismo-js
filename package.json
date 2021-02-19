@@ -1,0 +1,25 @@
+{
+  "name": "asincronismo-js",
+  "version": "1.0.0",
+  "description": "curso de asincronismo en JavaScript Platzi",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Osvaldo0895/asincronismo-js.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async",
+    "await"
+  ],
+  "author": "osvaldo-amador",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Osvaldo0895/asincronismo-js/issues"
+  },
+  "homepage": "https://github.com/Osvaldo0895/asincronismo-js#readme"
+}
